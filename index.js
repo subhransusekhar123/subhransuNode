@@ -6,3 +6,4 @@ const chalk = require('chalk')
 console.log(chalk.blue('subhransu'))
 
 // console.log('hello'.green.bgCyan)
+//i dont know much about this thing
